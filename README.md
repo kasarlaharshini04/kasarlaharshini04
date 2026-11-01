@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Harshini! 👋
 
-<!--
-**kasarlaharshini04/kasarlaharshini04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering Undergraduate
 
-Here are some ideas to get you started:
+## About Me
+- Interested in software development, VLSI and embedded systems.
+- Learning Python programming and problem-solving.
+- Exploring the intersection of electronics and technology.
+- Building practical projects to strengthen my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- **Programming:** Python, C/C++ (learning)
+- **Core ECE:** Digital Electronics, VLSI fundamentals
+- **Currently exploring:** SQL, DSA and Verilog
+
+## Projects
+
+### Python Projects
+- Student Report Card
+- Smart Calculator
+- Personal Expense Tracker
+- Quiz Application
+- Contact Management System
+- Library Management System
+
+### ECE Projects
+- IoT-Based Intelligent Medical Delivery Robot with Secure Access and Real-Time Monitoring
+- simple caluculator using RTL-GDSII flow(Academic Project)
+
+## Currently Learning
+- Python programming
+- Data Structures and Algorithms
+- SQL
+- VLSI design fundamentals
+
+
+
+*Learning, building and improving every day!*
+
